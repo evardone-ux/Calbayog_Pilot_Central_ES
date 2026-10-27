@@ -1,0 +1,10 @@
+{
+  "name": "TAMBULI Online Publication",
+  "short_name": "TAMBULI",
+  "description": "School publication of Calbayog Pilot Central Elementary School",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f2f8fd",
+  "theme_color": "#064987",
+  "icons": [{"src":"assets/tambuli-logo.png","sizes":"any","type":"image/png","purpose":"any"}]
+}
